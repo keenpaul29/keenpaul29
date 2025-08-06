@@ -38,6 +38,10 @@ I'm a passionate developer who loves to create and learn new technologies. My jo
 ## 🌟 Featured Projects
 ### SecureChat
 An end-to-end encrypted chat application
+### EuphonicAI
+A mood-based music recommendation system
+### LearnFlow
+An AI-based learning assistant
 
 ## 📫 How to reach me
 - LinkedIn: [My Linkedin](https://www.linkedin.com/in/puspal-paul)
@@ -47,16 +51,18 @@ An end-to-end encrypted chat application
 ## 🌱 I'm currently learning
 - Full Stack Web Development
 - Machine Learning
+- Large Language Models (LLMs) and RAG
+- LangChain, LangGraph
 
 ## 📝 My Resume
-- [My Resume](https://drive.google.com/file/d/1N_plK-_mEWcBYqXWNekzmIBOTRrSKUYA/view?usp=sharing)
+- [My Resume](https://drive.google.com/file/d/1laclmq3C_s1WT8KmlPlD8Mc74tEgsSm1/view?usp=sharing)
 
 
 
 ## 👯 I'm looking to collaborate on
 - Interesting open source projects
 - Innovative web applications
-- Machine learning projects
+- Machine learning and AI-based projects
 
 ---
 ⭐️ From [keenpaul29](https://github.com/keenpaul29)
