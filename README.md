@@ -34,8 +34,25 @@ I'm a passionate developer who loves to create and learn new technologies. My jo
 </div>
 
 ## 📈 GitHub Stats
-[![Puspal's GitHub stats](https://github-readme-stats.vercel.app/api?username=keenpaul29)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keenpaul29&layout=compact)](https://github.com/keenpaul29/github-readme-stats)
+<br />
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="300px" width="550px" src="https://github-readme-stats.vercel.app/api?username=keenpaul29&show_icons=true&theme=chartreuse-dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true" />
+  </a>
+</div>
+<br />
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="300px" width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keenpaul29&layout=compact&langs_count=8&theme=dark&hide_border=true" />
+  </a>
+</div>
+<br />
+<div align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img alt="Puspal's streak" src="https://git-hub-streak-stats.vercel.app?user=keenpaul29&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
 
 ## 🌟 Featured Projects
 ### SecureChat
@@ -55,6 +72,7 @@ An AI-based learning assistant
 - Machine Learning
 - Large Language Models (LLMs) and RAG
 - LangChain, LangGraph
+- DevOps
 
 ## 📝 My Resume
 - [My Resume](https://drive.google.com/file/d/1laclmq3C_s1WT8KmlPlD8Mc74tEgsSm1/view?usp=sharing)
