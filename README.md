@@ -41,13 +41,13 @@ I'm a passionate developer who loves to create and learn new technologies. My jo
 <br />
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="300px" width="550px" src="https://github-readme-stats.vercel.app/api?username=keenpaul29&show_icons=true&theme=chartreuse-dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true" />
+    <img width="91%" src="https://github-readme-stats.vercel.app/api?username=keenpaul29&show_icons=true&theme=chartreuse-dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true" />
   </a>
 </div>
 <br />
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="300px" width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keenpaul29&layout=compact&langs_count=8&theme=dark&hide_border=true" />
+    <img width="91%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keenpaul29&layout=compact&langs_count=8&theme=dark&hide_border=true" />
   </a>
 </div>
 <br />
