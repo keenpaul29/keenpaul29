@@ -36,6 +36,10 @@ I'm a passionate developer who loves to create and learn new technologies. My jo
 ## 📈 GitHub Stats
 <br />
 <div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keenpaul29&theme=github_dark" width="91%" />
+</div>
+<br />
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="300px" width="550px" src="https://github-readme-stats.vercel.app/api?username=keenpaul29&show_icons=true&theme=chartreuse-dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true" />
   </a>
@@ -47,11 +51,7 @@ I'm a passionate developer who loves to create and learn new technologies. My jo
   </a>
 </div>
 <br />
-<div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="Puspal's streak" src="https://git-hub-streak-stats.vercel.app?user=keenpaul29&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
+
 
 
 ## 🌟 Featured Projects
