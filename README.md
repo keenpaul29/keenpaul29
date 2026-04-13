@@ -59,9 +59,9 @@ A mood-based music recommendation system
 An AI-based learning assistant
 
 ## 📫 How to reach me
-- LinkedIn: [My Linkedin](https://www.linkedin.com/in/puspal-paul)
+- LinkedIn: [Click here](https://www.linkedin.com/in/puspal-paul)
 - Email: puspalpaul8@gmail.com
-- Twitter: [My Twitter](https://x.com/paul_puspal)
+- Twitter: [Click here](https://x.com/paul_puspal)
 
 ## 🌱 I'm currently learning
 - Full Stack Web Development
