@@ -35,22 +35,18 @@ I'm a passionate developer who loves to create and learn new technologies. My jo
 
 ## 📈 GitHub Stats
 <br />
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keenpaul29&theme=github_dark" width="91%" />
-</div>
-<br />
-<div align="center">
+<div align="center" style>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="91%" src="https://github-readme-stats.vercel.app/api?username=keenpaul29&show_icons=true&theme=chartreuse-dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true" />
+    <img width="50%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=keenpaul29&layout=compact&theme=github_dark" />
   </a>
 </div>
 <br />
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="91%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keenpaul29&layout=compact&langs_count=8&theme=dark&hide_border=true" />
-  </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keenpaul29&theme=github_dark" width="60%" />
 </div>
 <br />
+
+
 
 
 
