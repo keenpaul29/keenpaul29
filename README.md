@@ -1,59 +1,19 @@
-# keenpaul29
+# Puspal Paul
 
-> Memorable developer positioning.
+Backend & Full-Stack Developer specializing in Node.js/NestJS and Rust. I build production systems — not tutorials.
 
-**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
+## What I've Built
 
-## Header
-> Editing this section in the inspector.
-Hi, I'm **keenpaul29**. This README is tuned for **personal brand** with a GitHub visual system.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=keenpaul29&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=keenpaul29&theme=github-dark" alt="keenpaul29 hero section" />
-  </picture>
-</p>
-## About Me
-Shapes the short profile story and positioning.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=keenpaul29&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=keenpaul29&theme=github-dark" alt="keenpaul29 about section" />
-  </picture>
-</p>
-## Skills
-Selected stack and skill badges will be generated from the GitHub profile and README strategy.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=keenpaul29&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=keenpaul29&theme=github-dark" alt="keenpaul29 stack section" />
-  </picture>
-</p>
-## GitHub Stats
-GitSkins stat widgets will use the **GitHub** theme.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=keenpaul29&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=keenpaul29&theme=github-dark" alt="keenpaul29 stats section" />
-  </picture>
-</p>
-## Projects
-Highlights repositories as proof of work.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=keenpaul29&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=keenpaul29&theme=github-dark" alt="keenpaul29 projects section" />
-  </picture>
-</p>
-## Heatmap
-Animated year-long contribution calendar.
-## Connect
-Contact and social links will appear here.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=keenpaul29&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=keenpaul29&theme=github-dark" alt="keenpaul29 social section" />
-  </picture>
-</p>
+**Marketplace Platform** — 122 services, 312 strongly-typed frontend components, RBAC with Jose-signed cookies, Prisma monorepo with 27 schema files organized by domain. BFF architecture with Next.js API routes proxying to NestJS, translating httpOnly JWT cookies to Bearer tokens.
 
-<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Heatmap, Connect -->
+**Trading Assistant** — AI-assisted platform serving 15K+ users. 35% throughput improvement via async execution, query tuning, and Redis caching. Containerized with Docker + Nginx + PM2 on Ubuntu.
+
+**Rust System Daemon** — <50MB idle footprint. Global keyboard hooks, USB access control via Windows SetupDi APIs, telemetry engine tracking 10+ metric categories with RDP-aware attribution.
+
+## Stack
+
+TypeScript · Node.js · NestJS · Rust · PostgreSQL · Prisma · Docker · GitHub Actions
+
+## Currently
+
+Building scalable backend systems. Exploring distributed architectures and WebSocket scaling.
