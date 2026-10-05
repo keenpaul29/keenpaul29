@@ -44,7 +44,7 @@ I'm a passionate developer who loves to create and learn new technologies. My jo
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keenpaul29&theme=github_dark" width="60%" />
 </div>
-![My skyline](https://raw.githubusercontent.com/keenpaul29/keenpaul29/output/skyline.svg)
+<img src="https://raw.githubusercontent.com/keenpaul29/keenpaul29/output/skyline.svg">
 
 <br />
 
